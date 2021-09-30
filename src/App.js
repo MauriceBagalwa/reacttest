@@ -17,7 +17,11 @@ function App() {
         >
           Learn React
         </a>
-        <h1> Hello wolrd je suis desolé pour mon choix orecipité et idiot.</h1>
+        <h1>
+          {" "}
+          Hello wolrd je suis desolé pour mon choix orecipité et idiot. pour
+          quoi moi
+        </h1>
       </header>
     </div>
   );
